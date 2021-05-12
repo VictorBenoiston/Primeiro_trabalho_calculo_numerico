@@ -20,6 +20,9 @@
 <h2>    Parte 3:</h2>
 <p>Consiste em comparar as raízes encontradas, e fazer uma comparação entre os métodos:
 <img src="images/preview_2.png"></img>
+<p>
+<img src="images/logo_yt.png" width=30px></img> Link do vídeo explicativo: https://www.youtube.com/watch?v=lHS9F6CrPPE
+
 
 
 
