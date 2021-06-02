@@ -1,6 +1,8 @@
 # Primeiro_trabalho_calculo_numerico
  Trabalho referente à primeira unidade da disciplina de cálculo numérico. UFERSA, 2021.
 
+<h1><img src="images/logo_yt.png" width=30px></img> Link do vídeo explicativo: </h1>
+https://youtu.be/TpooUOw7Zzs
  <h1>Questões de estudo: </h1>
 <img src="images/questoes.png"></img>
 <h1>Metodologia:</h1>
@@ -21,8 +23,6 @@
 <p>Consiste em comparar as raízes encontradas, e fazer uma comparação entre os métodos:
 <img src="images/preview_2.png"></img>
 <p>
-<h2><img src="images/logo_yt.png" width=30px></img> Link do vídeo explicativo: </h2>
-https://www.youtube.com/watch?v=lHS9F6CrPPE
 
 
 
